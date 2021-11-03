@@ -25,6 +25,7 @@ body{
     align-items: center;
     flex-direction: column;
 
+    text-align: center;
     line-height: 1.9;
 
     color: rgba(0, 0, 0, 0.8);
